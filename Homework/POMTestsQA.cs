@@ -12,7 +12,7 @@ namespace Homework.Pages
         {
             _softUni = new QAAutomation(Driver);
         }
-        [Test, Description("Assert that there are heading tag <h1> and that contains QA Automation - септември 2019")]
+        [Test, Description("Assert that there is heading tag <h1> and that contains QA Automation - септември 2019")]
         [Author("Desislava")]
 
         public void QAAutomationIsOpened()
